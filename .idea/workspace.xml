@@ -1,13 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31b36ae4-6b53-4ebe-90b3-8e6648fbc18d" name="Default Changelist" comment="" />
+    <list default="true" id="31b36ae4-6b53-4ebe-90b3-8e6648fbc18d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/moviesAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/btn-pagination/BtnPagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/btn-pagination/BtnPagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/Header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/loader/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/loader/Loader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/movie-card/MovieCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/movie-card/MovieCard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/movie-info/MovieInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/movie-info/MovieInfo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/movies-list/MoviesList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/movies-list/MoviesList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/movies-page/MoviesPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/movies-page/MoviesPage.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/poster-preview/PosterPreview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/poster-preview/PosterPreview.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/poster-preview/PosterPreviewList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/select-movies-sort/SelectMoviesSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/select-movies-sort/SelectMoviesSort.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/stars-rating/StarsRating.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/stars-rating/StarsRating.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/user-info/UserInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/moviesGanresReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/moviesReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dUXKkZ6Lqf46fUrRGBIgv1nmxV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,8 +67,40 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Артём\Desktop\movies\src\components" />
+      <recent name="C:\Users\Артём\Desktop\movies\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -28,8 +112,76 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592480583299</updated>
-      <workItem from="1592480588804" duration="360000" />
+      <workItem from="1592480588804" duration="1465000" />
+      <workItem from="1592482486539" duration="2008000" />
+      <workItem from="1592486691199" duration="613000" />
+      <workItem from="1592487607438" duration="10192000" />
+      <workItem from="1592550092439" duration="20387000" />
+      <workItem from="1592584658538" duration="264000" />
+      <workItem from="1592586471760" duration="737000" />
+      <workItem from="1592637758657" duration="540000" />
+      <workItem from="1592639151389" duration="5652000" />
+      <workItem from="1592646054519" duration="1631000" />
+      <workItem from="1592654589709" duration="6356000" />
+      <workItem from="1592725365587" duration="357000" />
+      <workItem from="1592726628929" duration="5487000" />
+      <workItem from="1592733985562" duration="8892000" />
+      <workItem from="1592744717531" duration="9311000" />
+      <workItem from="1592806272857" duration="19219000" />
+      <workItem from="1592832492252" duration="9477000" />
+      <workItem from="1592845264657" duration="2174000" />
+      <workItem from="1592893379469" duration="37153000" />
+      <workItem from="1592981766192" duration="11553000" />
+      <workItem from="1593005973914" duration="13000" />
+      <workItem from="1593008930451" duration="3254000" />
+      <workItem from="1593016831726" duration="1195000" />
+      <workItem from="1593066031087" duration="18008000" />
+      <workItem from="1593092037013" duration="3195000" />
+      <workItem from="1593097016836" duration="2163000" />
+      <workItem from="1593102866845" duration="336000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592482040662">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1592482040662" />
+    <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1592484444940">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1592484444940" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1593078766889">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1593078766889" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/reducers/moviesGanresReducer.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/movies-list/MoviesList.js</url>
+          <line>341</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/movies-list/MoviesList.js</url>
+          <line>24</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/movies-list/MoviesList.js</url>
+          <line>75</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

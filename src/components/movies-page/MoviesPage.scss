@@ -1,0 +1,17 @@
+.movies-list {
+  display: flex;
+  padding: 20px 60px;
+
+  &.dark {
+    background-color: #282c34;
+  }
+
+  &-title {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+  &-title.dark {
+    color: #fff;
+  }
+}

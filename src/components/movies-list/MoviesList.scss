@@ -1,0 +1,10 @@
+.movies-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px 60px;
+
+  &.dark {
+    background-color: #282c34;;
+  }
+}

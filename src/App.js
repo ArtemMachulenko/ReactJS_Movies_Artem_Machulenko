@@ -1,26 +1,50 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Redirect
+} from 'react-router-dom';
+import { Provider } from 'react-redux';
+import {Header} from './components/header/Header';
+import { DarkThemeContextWrapper } from './components/dark-theme-context-wrapper/DarkThemeContextWrapper';
+import { CurrentUserContext} from "./context/CurrentUserContext";
+import { usersList } from './constants';
+import { appStore } from './store';
+import MoviesPage from "./components/movies-page/MoviesPage";
+import MoviesList from "./components/movies-list/MoviesList";
+import MovieInfo from "./components/movie-info/MovieInfo";
+import PosterPreview from "./components/poster-preview/PosterPreview";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+class App extends Component {
+  render() {
+    return (
+        <CurrentUserContext.Provider value={usersList[0]}>
+          <DarkThemeContextWrapper>
+              <Provider store={appStore}>
+                <Router>
+                  <Header />
+                  <Switch>
+                    <Route path="/home" component={MoviesPage} exact/>
+                    <Route path="/home/:movieId"
+                         render={(routerProps) => {
+                             return (<MovieInfo {...routerProps} />);
+                         }}
+                     />
+                    <Route path="/poster-preview" render={(routerProps) => {
+                      return (
+                          <PosterPreview {...routerProps} />
+                      );
+                    }} />
+                    <Redirect from="/" to="/home?page=1" />
+                  </Switch>
+                </Router>
+              </Provider>
+          </DarkThemeContextWrapper>
+        </CurrentUserContext.Provider>
+    );
+  }
 }
 
 export default App;

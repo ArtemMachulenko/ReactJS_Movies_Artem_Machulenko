@@ -1,0 +1,24 @@
+.poster-preview {
+  padding: 20px 100px;
+
+  &.dark {
+    background-color: #282c34;
+  }
+
+  &-title {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  &-title.dark {
+    color: #fff;
+  }
+
+  &-list-container {
+    display: flex;
+  }
+
+  &-list {
+    margin-right: 30px;
+  }
+}
