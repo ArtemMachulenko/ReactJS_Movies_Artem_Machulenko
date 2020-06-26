@@ -30,7 +30,7 @@ const MovieInfo = (props) => {
             (data) => {
                 return (
                     <div className={`movie-info ${data.isDarkTheme && 'dark'}`}>
-                        <h2 className={`movie-info-title ${data.isDarkTheme && 'dark'}`}>MovieInfo</h2>
+                        <h2 className={`movie-info-title ${data.isDarkTheme && 'dark'}`}>Movie info</h2>
                         <MovieCard
                             movie={movie}
                             genres={ganres}
