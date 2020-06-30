@@ -101,7 +101,7 @@
       <workItem from="1593102866845" duration="1032000" />
       <workItem from="1593152883356" duration="481000" />
       <workItem from="1593172536618" duration="465000" />
-      <workItem from="1593498589847" duration="722000" />
+      <workItem from="1593498589847" duration="735000" />
     </task>
     <task id="LOCAL-00001" summary="-completed project">
       <created>1593103281193</created>
@@ -292,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593499367408</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="-corrected">
+      <created>1593499376759</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1593499376759</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,10 +316,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1592482040662" />
-    <state x="299" y="0" key="CommitChangelistDialog2" timestamp="1593499365129">
+    <state x="299" y="0" key="CommitChangelistDialog2" timestamp="1593499375219">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="299" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1593499365129" />
+    <state x="299" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1593499375219" />
     <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1592484444940">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
