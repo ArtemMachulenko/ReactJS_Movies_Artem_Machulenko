@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31b36ae4-6b53-4ebe-90b3-8e6648fbc18d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/movie-info/MovieInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/movie-info/MovieInfo.js" afterDir="false" />
-    </list>
+    <list default="true" id="31b36ae4-6b53-4ebe-90b3-8e6648fbc18d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +100,7 @@
       <workItem from="1593097016836" duration="2163000" />
       <workItem from="1593102866845" duration="1032000" />
       <workItem from="1593152883356" duration="481000" />
-      <workItem from="1593172536618" duration="331000" />
+      <workItem from="1593172536618" duration="465000" />
     </task>
     <task id="LOCAL-00001" summary="-completed project">
       <created>1593103281193</created>
@@ -112,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593103281193</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-corrected MovieInfo.js">
+      <created>1593173058897</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593173058897</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,17 +124,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-completed project" />
-    <option name="LAST_COMMIT_MESSAGE" value="-completed project" />
+    <MESSAGE value="-corrected MovieInfo.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="-corrected MovieInfo.js" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592482040662">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1592482040662" />
-    <state x="299" y="0" key="CommitChangelistDialog2" timestamp="1593103269941">
+    <state x="299" y="0" key="CommitChangelistDialog2" timestamp="1593173041116">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="299" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1593103269941" />
+    <state x="299" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1593173041116" />
     <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1592484444940">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -139,6 +144,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="493" y="266" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1593103313861" />
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1593173065061">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1593173065061" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1593078766889">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
