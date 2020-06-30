@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="31b36ae4-6b53-4ebe-90b3-8e6648fbc18d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/moviesAction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/moviesAction.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +103,7 @@
       <workItem from="1593102866845" duration="1032000" />
       <workItem from="1593152883356" duration="481000" />
       <workItem from="1593172536618" duration="465000" />
-      <workItem from="1593498589847" duration="158000" />
+      <workItem from="1593498589847" duration="317000" />
     </task>
     <task id="LOCAL-00001" summary="-completed project">
       <created>1593103281193</created>
@@ -127,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593498698678</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="-corrected">
+      <created>1593498841084</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593498841084</updated>
+    </task>
+    <task id="LOCAL-00005" summary="-corrected">
+      <created>1593498922159</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593498922159</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,10 +157,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1592482040662" />
-    <state x="299" y="0" key="CommitChangelistDialog2" timestamp="1593498836699">
+    <state x="299" y="0" key="CommitChangelistDialog2" timestamp="1593498931968">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="299" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1593498836699" />
+    <state x="299" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1593498931968" />
     <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1592484444940">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
