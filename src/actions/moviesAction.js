@@ -116,3 +116,6 @@ export const getGenres = () => {
         );
     }
 }
+
+
+console.log('test');
