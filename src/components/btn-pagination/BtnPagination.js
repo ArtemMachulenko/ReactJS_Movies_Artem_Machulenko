@@ -9,3 +9,5 @@ export const BtnPagination = (props) => {
         <Link to={`${url}?page=${value}`} className={className}>{value}</Link>
     );
 }
+
+// console.log('test');
